@@ -1,0 +1,40 @@
+# OS / Editor
+.DS_Store
+Thumbs.db
+*~
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-error.log*
+dist/
+build/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+.eggs/
+.venv/
+venv/
+ENV/
+.env
+
+# IDEs
+.vscode/
+.idea/
+*.iml
+
+# Logs / Coverage
+*.log
+.coverage
+htmlcov/
+
+# Databases
+/sqlite_data/
+sqlite_data/
+*.sqlite
+*.sqlite3
+*.db
