@@ -29,17 +29,3 @@ fastapi dev
 streamlit run streamlit_app.py
 ```
 
----
-
-### 🔍 Key Improvements I Made (brief)
-
-* Fixed grammar and spelling (**wrting → writing, qoute → quote**).
-* Made everything **first-person**, as requested.
-* Kept it **short, technical, and intentional**—perfect for a GitHub README.
-* Removed unnecessary explanations while preserving **design rationale**.
-
-If you want, I can also:
-
-* Make this **even more minimal**
-* Add a **“Design Decisions”** section
-* Optimize it specifically for **recruiters or reviewers**
